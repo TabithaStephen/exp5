@@ -97,3 +97,9 @@ git log --oneline --graph --all
 Step 14: Verify the feature branch
 git checkout feature-branch
 git log --oneline
+
+compare and pull request
+create pull req
+merge pull req
+config merge
+check app.txt
